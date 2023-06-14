@@ -47,3 +47,23 @@ header a{
  font-size: large;
  
 }
+
+.information{
+    border: 2px solid;
+    text-align: center;
+    font-size: large;
+    background-color:rgb(222, 231, 243);
+    color: rgb(31, 43, 31);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.information img{
+    border: 2px solid black;
+    display: flex;
+    width: 70px;
+    height: 80px;
+    margin-right: 5%;
+    background-color:rgb(222, 231, 243);
+}
