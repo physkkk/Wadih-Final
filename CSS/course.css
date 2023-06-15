@@ -34,7 +34,7 @@ select{
     padding: 2%;
     text-align: center;
     margin: auto;
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     border-radius: 20px;
 }
 
@@ -44,12 +44,13 @@ form h1{
 
 
 .city{
-    font-size: medium;
+    font-size: large;
     color: rgb(52, 82, 52);
     text-align: center;
 }
 
 .abc{
+    display: flex;
     font-size: medium;
     color: rgb(52, 82, 52);
     text-align: center;
@@ -61,3 +62,4 @@ form h1{
     color: rgb(52, 82, 52);
     text-align: center;
 }
+
