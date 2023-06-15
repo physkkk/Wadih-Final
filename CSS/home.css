@@ -47,3 +47,35 @@ header a{
  font-size: large;
  
 }
+
+
+
+.information{
+    padding: 1%;
+    position: fixed;
+    left: 0%;
+    bottom: 0%;
+    width: 100%;
+    height: 10%;
+    text-align: center;
+    font-size: large;
+    color: rgb(31, 43, 31);
+    align-items: center;
+    justify-content: center;
+    border: 3px solid rgb(34, 88, 124);
+    background-color:  rgb(187, 214, 241);
+    display: flex;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+
+
+.information img{
+    border: 2px solid black;
+    display: flex;
+    width: 70px;
+    height: 80px;
+    margin-right: 5%;
+    background-color:rgb(222, 231, 243);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
